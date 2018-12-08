@@ -15,26 +15,26 @@ export default props => {
       <ul className="c-contact-list">
         <li className="c-contact-list__item">
           <FaEnvelopeO />
-          <Obfuscate email="greglobinski@gmail.com" />
+          <Obfuscate email="leopoldkwok@gmail.com" />
         </li>
         <li className="c-contact-list__item">
           <FaTwitter />
           <a
-            href="https://twitter.com/greglobinski"
+            href="https://twitter.com/leopoldkwok"
             target="_blank"
             rel="noopener noreferrer"
           >
-            @greglobinski
+            @leopoldkwok
           </a>
         </li>
         <li className="c-contact-list__item">
           <FaGithub />
           <a
-            href="https://github.com/greglobinski"
+            href="https://github.com/leopoldkwok"
             target="_blank"
             rel="noopener noreferrer"
           >
-            greglobinski
+            leopoldkwok
           </a>
         </li>
       </ul>
